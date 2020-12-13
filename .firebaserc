@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sta-app-4b9c2": {
+      "hosting": {
+        "Test-udvikling": [
+          "sta-app-4b9c2"
+        ]
+      }
+    }
+  }
+}
